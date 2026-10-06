@@ -1,0 +1,17 @@
+AI Fake Review Detector
+An AI fake review detector analyzes online reviews and flags ones that may be fake, misleading, or artificially generated. It can look for patterns such as repeated wording, unusual posting activity, suspicious reviewer behavior, and inconsistencies in the review content.
+Features
+- Analyzes review text for suspicious patterns
+- Flags reviews for further review
+- Helps users assess review credibility
+- Can support moderation of online review platforms
+How It Works
+The system processes review text and, when available, related signals such as reviewer history and posting patterns. It then estimates whether the review appears genuine or suspicious.
+A flagged review is not automatically proven fake. AI results should be treated as guidance and reviewed alongside other evidence.
+Intended Use
+Use this tool to support review moderation and informed decision-making. Avoid using an AI score as the sole reason to remove a review or penalize a reviewer.
+Status
+This README describes the concept. Add installation, setup, usage, and contribution instructions when the project implementation is available.
+
+
+1:28 PM
