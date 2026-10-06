@@ -1,0 +1,20 @@
+review,label
+"The product quality is excellent and works as expected.",genuine
+"Delivery was on time and the packaging was good.",genuine
+"I have been using this product for two weeks and it works well.",genuine
+"The sound quality is good, but the battery could be better.",genuine
+"The product is okay for the price.",genuine
+"The size was slightly different from what I expected.",genuine
+"Good quality and easy to use.",genuine
+"The product arrived damaged and customer support replaced it.",genuine
+"Absolutely amazing product!!! Best product ever!!!",fake
+"100% perfect!!! Everyone must buy this NOW!!!",fake
+"Wow wow wow!!! This is the best product in the world!!!",fake
+"Amazing quality, amazing price, amazing everything!!!",fake
+"Best purchase ever! Don't think, just buy it!!!",fake
+"Five stars!!! Perfect!!! Perfect!!! Perfect!!!",fake
+"I can't believe how unbelievably amazing this product is!!!",fake
+"Buy this product immediately, you will never regret it!!!",fake
+"Excellent product!!! Best seller!!! Highly recommended!!!",fake
+"This product changed my life completely!!!",fake
+"Fantastic!!! Awesome!!! Incredible!!! Must buy!!!",fake
